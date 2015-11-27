@@ -5,6 +5,12 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mywebapp", "mywebapp\mywebapp.csproj", "{9A32E9E0-9307-435E-ADA4-883D4AA3C7BA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursos", "Recursos", "{289EC41B-3E64-408C-B40E-B2636138D3FE}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive - Microsoft\Documents\Students on Azure\Guide - Students On Azure.pdf = ..\..\..\..\OneDrive - Microsoft\Documents\Students on Azure\Guide - Students On Azure.pdf
+		..\..\..\..\OneDrive - Microsoft\Documents\Students on Azure\Students on Azure.pptx = ..\..\..\..\OneDrive - Microsoft\Documents\Students on Azure\Students on Azure.pptx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
